@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\bin\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.exe
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\bin\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.deps.json
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\bin\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.runtimeconfig.json
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\bin\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\bin\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.dll
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\bin\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.pdb
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.dll
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.pdb
+C:\Users\Admin\source\repos\Inheritance, Access modifiers, Encapsulation\Inheritance, Access modifiers, Encapsulation\obj\Debug\netcoreapp3.1\Inheritance, Access modifiers, Encapsulation.genruntimeconfig.cache
